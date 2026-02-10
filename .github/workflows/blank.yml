@@ -35,4 +35,4 @@ jobs:
           ENVIRONMENT: ${{ vars.ENVIRONMENT }}  # or ${{ secrets.ENVIRONMENT }}
         run: |
           echo Add other actions to build,
-          echo "test, and deploy your project $ENVIRONMENT."
+          echo test, and deploy your project $ENVIRONMENT.
